@@ -1,0 +1,12 @@
+{
+  "name": "architecture-atlas",
+  "version": "0.1.0",
+  "description": "Progressively refined logical architecture model and architecture linting skills.",
+  "repository": "https://github.com/QzCurious/architecture-atlas",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Architecture Atlas",
+    "shortDescription": "Logical architecture model and linting skills",
+    "developerName": "QzCurious"
+  }
+}
